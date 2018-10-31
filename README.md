@@ -1,8 +1,8 @@
-# MLReadingGroup
+# ML Reading Group
 
 This repository is devoted to Machine Learning reading group held in Faculty of Mathematics and Computer Science, [Transilvania University of Brasov](http://www.unitv.ro/).
 
-Weekely meetings are scheduled in **Faculty of Mathematics and Computer Science, Iuliu Maniu 50, room PIII1, every Wednesday, 18-19.30**, starting with October 31st. Some weeks are for presenting and discussing research papers, and the other weeks are for discussing selected books chapters.
+Weekely meetings are scheduled in **Faculty of Mathematics and Computer Science, Iuliu Maniu 50, room PIII1, every Wednesday, 18-19.30**, starting with October 31st. Some weeks are for presenting and discussing research papers, and the other weeks are for discussing selected books chapters. Ph.D. students, researchers and interested people are expected to actively participate to these meetings. 
 
 **Program**
 
