@@ -2,7 +2,7 @@
 
 This repository is devoted to Machine Learning reading group held in Faculty of Mathematics and Computer Science, [Transilvania University of Brasov](http://www.unitv.ro/).
 
-Weekely meetings are scheduled in **Faculty of Mathematics and Computer Science, Iuliu Maniu 50, room PIII1, every Wednesday, 18-19.30**, officially starting with October 31st. A [first lecture](http://people.cs.uchicago.edu/~niyogi/papersps/BNMLJ.pdf) was delivered by Alexandru Ionescu on November 24th. 
+Weekely meetings are scheduled in **Faculty of Mathematics and Computer Science, Iuliu Maniu 50, room PIII1, every Wednesday, 18-19.30**, officially starting with October 31st. A [first lecture](http://people.cs.uchicago.edu/~niyogi/papersps/BNMLJ.pdf) was delivered by Alexandru Ionescum, Ph.D., on November 24th. 
 
 Some weeks are for presenting and discussing research papers, and the other weeks are for discussing selected books chapters. 
 
