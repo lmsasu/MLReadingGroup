@@ -10,5 +10,5 @@ Weekely meetings are scheduled in **Faculty of Mathematics and Computer Science,
 
 *7 November 2018* - Reserved Subject, Delia Duca-Iliescu
 
-*14 November 2018* - Chapter two [Bayesian Decision Theory](https://cds.cern.ch/record/683166/files/0471056693_TOC.pdf) of [Pattern Classification](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?ie=UTF8&qid=1540993285&sr=8-1&keywords=Classification+duda), presented by TO BE ADDED
+*14 November 2018* - Chapter two - [Bayesian Decision Theory](https://cds.cern.ch/record/683166/files/0471056693_TOC.pdf) - of [Pattern Classification](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?ie=UTF8&qid=1540993285&sr=8-1&keywords=Classification+duda), presented by TO BE ADDED
 
