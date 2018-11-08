@@ -16,5 +16,5 @@ Ph.D. students, researchers and interested people are expected to actively parti
 
 *14 November 2018* - Chapter two of [Bayesian Decision Theory](https://cds.cern.ch/record/683166/files/0471056693_TOC.pdf) - of [Pattern Classification](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?ie=UTF8&qid=1540993285&sr=8-1&keywords=Classification+duda), presented by Alexandru Ionescu, Ph.D.
 
-*21 November 2018* - Delia Duca-Iliescu, [A Comparative Study of Game Tree Searching Methods](www)
+*21 November 2018* - Delia Duca-Iliescu, Ph.D. student, [A Comparative Study of Game Tree Searching Methods](https://github.com/lmsasu/MLReadingGroup/blob/master/Presentations/2018/11.November/21/A_Comparative_Study_of_Game_Tree_Searching_Methods.pdf)
 
