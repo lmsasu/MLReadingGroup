@@ -4,7 +4,7 @@ This repository is devoted to Machine Learning reading group held in Faculty of 
 
 Weekely meetings are scheduled in **Faculty of Mathematics and Computer Science, Iuliu Maniu 50, room PIII1 or PIII4, every Wednesday, 18-19.30**, officially starting with October 31st. A [first lecture](http://people.cs.uchicago.edu/~niyogi/papersps/BNMLJ.pdf) was delivered by Alexandru Ionescu, Ph.D., on October 24th. 
 
-Some weeks are for presenting and discussing research papers, and the other weeks are for discussing selected books chapters. 
+Some weeks are for presenting and discussing research papers, and the other weeks are for discussing selected books chapters. We start with [Duda *et al.* book](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/), with [errata](https://www.cse.unr.edu/~bebis/CS479/Handouts/Errata.pdf). 
 
 Ph.D. students, researchers and interested people are expected to actively participate to these meetings. 
 
