@@ -20,6 +20,6 @@ Ph.D. students, researchers and interested people are expected to actively parti
 
 *28 November 2018* - [1st part](https://github.com/lmsasu/MLReadingGroup/blob/master/Presentations/2018/11.November/27/ML_and_Bayesian_estimation.pdf) from Chapter three ["Maximum-Likelihood and Bayesian Parameter Estimation"](https://cds.cern.ch/record/683166/files/0471056693_TOC.pdf) - of [Pattern Classification](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?ie=UTF8&qid=1540993285&sr=8-1&keywords=Classification+duda), Luciana Majercsik, Ph.D. student
 
-*5 December 2018* - Vlad Ioneescu, Ph.D. student, Reserved topic
+*5 December 2018* - Vlad Ioneescu, Ph.D. student, [Issues in Using Self-Organizing Maps in Human Movement and Sport Science](https://content.sciendo.com/view/journals/ijcss/16/1/article-p1.xml)
 
 *12 December 2018* 2nd part from Chapter three ["Maximum-Likelihood and Bayesian Parameter Estimation"](https://cds.cern.ch/record/683166/files/0471056693_TOC.pdf) - of [Pattern Classification](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?ie=UTF8&qid=1540993285&sr=8-1&keywords=Classification+duda), Luciana Majercsik, Ph.D. student
