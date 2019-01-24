@@ -24,4 +24,6 @@ Ph.D. students, researchers and interested people are expected to actively parti
 
 *12 December 2018* - 2nd part from Chapter three ["Maximum-Likelihood and Bayesian Parameter Estimation"](https://cds.cern.ch/record/683166/files/0471056693_TOC.pdf) - of [Pattern Classification](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?ie=UTF8&qid=1540993285&sr=8-1&keywords=Classification+duda), Luciana Majercsik, Ph.D. student; [slides](https://github.com/lmsasu/MLReadingGroup/blob/master/Presentations/2018/12.December/12/Hidden_Markov_models.pdf)
 
-*16 January 2019* - [Gaussian Material Synthesis]https://users.cg.tuwien.ac.at/zsolnai/gfx/gaussian-material-synthesis/), Vlad Vrabie, Applied Informatics student
+*16 January 2019* - [Gaussian Material Synthesis]https://users.cg.tuwien.ac.at/zsolnai/gfx/gaussian-material-synthesis/), Vlad Vrabie, Applied Informatics student; [slides](https://github.com/lmsasu/MLReadingGroup/blob/master/Presentations/2019/January/16/Prezentare_Cerc_ML.pdf)
+
+*22 January 2019* (**note weekday change**), 1st part from Chapter four ["Nonparametric Techniques"](https://cds.cern.ch/record/683166/files/0471056693_TOC.pdf) of [Pattern Classification](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?ie=UTF8&qid=1540993285&sr=8-1&keywords=Classification+duda), presented by Alexandru Ionescu, Ph.D.
