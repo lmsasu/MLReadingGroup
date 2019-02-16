@@ -33,3 +33,6 @@ Ph.D. students, researchers and interested people are expected to actively parti
 *5 February 2019*, 2nd part from Chapter four ["Nonparametric Techniques"](https://cds.cern.ch/record/683166/files/0471056693_TOC.pdf) of [Pattern Classification](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?ie=UTF8&qid=1540993285&sr=8-1&keywords=Classification+duda), presented by Delia Duca-Iliescu, Ph.D. student; [slides](https://github.com/lmsasu/MLReadingGroup/blob/master/Presentations/2019/02.February/05/Prezentare_ML_5_feb.pdf)
 
 *12 February 2019*, [Transfer entropy-based feedback improves performance in artificial neural networks](https://arxiv.org/pdf/1706.04265.pdf), Adrian Moldovan, Ph.D. student.
+
+*19 February 2019*, Inter-semestrial holiday.
+
