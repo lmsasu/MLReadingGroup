@@ -38,7 +38,7 @@ Ph.D. students, researchers and interested people are expected to actively parti
 
 *26 February 2019*, 1st part from Chapter five ["Linear discriminant analysis"](https://cds.cern.ch/record/683166/files/0471056693_TOC.pdf) of [Pattern Classification](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?ie=UTF8&qid=1540993285&sr=8-1&keywords=Classification+duda), presented by Luciana Majercsik, Ph.D. student.
 
-*5 March 2019* <TO BE ADDED>.
+*5 March 2019* CANCELLED.
 
 *12 March 2019*, 2nd part from Chapter five ["Linear discriminant analysis"](https://cds.cern.ch/record/683166/files/0471056693_TOC.pdf) of [Pattern Classification](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?ie=UTF8&qid=1540993285&sr=8-1&keywords=Classification+duda), presented by Luciana Majercsik, Ph.D. student.
 
