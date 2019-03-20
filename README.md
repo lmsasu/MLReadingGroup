@@ -44,4 +44,4 @@ Ph.D. students, researchers and interested people are expected to actively parti
 
 *19 March 2019*, [Machine learning in protein engineering](https://arxiv.org/pdf/1811.10775.pdf), Marius Paltanea, Ph.D. student.
 
-
+*28 March 2019* (note weekday change), Support Vector Machines, Honorius Galmeanu, Ph.D.; room PIII4 or PII4.
