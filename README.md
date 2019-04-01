@@ -44,6 +44,6 @@ Ph.D. students, researchers and interested people are expected to actively parti
 
 *19 March 2019*, [Machine learning in protein engineering](https://arxiv.org/pdf/1811.10775.pdf), Marius Paltanea, Ph.D. student; [slides](https://github.com/lmsasu/MLReadingGroup/blob/master/Presentations/2019/03.March/19/ML_protein.pdf).
 
-*28 March 2019* (note weekday change), Support Vector Machines, Honorius Galmeanu, Ph.D.; room PIII4 or PII4.
+*28 March 2019* (note weekday change), Support Vector Machines, Honorius Galmeanu, Ph.D., room PIII4; [slides](https://github.com/lmsasu/MLReadingGroup/blob/master/Presentations/2019/03.March/28/svm-slides.pdf)
 
 *2 April 2019*, [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf), Mihaela Oleanu, Ph.D. student.
