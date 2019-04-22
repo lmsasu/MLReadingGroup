@@ -51,3 +51,9 @@ Ph.D. students, researchers and interested people are expected to actively parti
 *9 April 2019*, Chapter six ["Multilayer neural networks"](https://cds.cern.ch/record/683166/files/0471056693_TOC.pdf) of [Pattern Classification](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?ie=UTF8&qid=1540993285&sr=8-1&keywords=Classification+duda), presented by Luciana Majercsik, Ph.D. student, and  Kerestély Árpád, Ph.D. student.
 
 *16 April 2019*, Universal approximation for NNs, Lucian M. Sasu, Ph.D.
+
+*23 April 2019*, not held.
+
+*30 April 2019*, university holiday
+
+*7 May 2019*, reserved topic, Alexandru Ionescu, Ph.D.
