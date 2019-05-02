@@ -56,4 +56,4 @@ Ph.D. students, researchers and interested people are expected to actively parti
 
 *30 April 2019*, university holiday
 
-*7 May 2019*, reserved topic, Alexandru Ionescu, Ph.D.
+*7 May 2019*, [Laplacian Eigenmaps for Dimensionality Reduction and Data Representation](http://www2.imm.dtu.dk/projects/manifold/Papers/Laplacian.pdf), Alexandru Ionescu, Ph.D.
