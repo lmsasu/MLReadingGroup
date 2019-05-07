@@ -56,4 +56,4 @@ Ph.D. students, researchers and interested people are expected to actively parti
 
 *30 April 2019*, university holiday
 
-*7 May 2019*, [Laplacian Eigenmaps for Dimensionality Reduction and Data Representation](https://github.com/lmsasu/MLReadingGroup/blob/master/Presentations/2019/05.May/07/Laplacian.pdf), Alexandru Ionescu, Ph.D.
+*7 May 2019*, [Laplacian Eigenmaps for Dimensionality Reduction and Data Representation](https://github.com/lmsasu/MLReadingGroup/blob/master/Presentations/2019/05.May/07/Laplacian.pdf), Alexandru Ionescu, Ph.D.; [slides](https://github.com/lmsasu/MLReadingGroup/blob/master/Presentations/2019/05.May/07/Laplacian_Eigenmaps.pdf)
