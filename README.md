@@ -48,7 +48,7 @@ Ph.D. students, researchers and interested people are expected to actively parti
 
 *2 April 2019*, [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf), Mihaela Olteanu, Ph.D. student.
 
-*9 April 2019*, Chapter six ["Multilayer neural networks"](https://cds.cern.ch/record/683166/files/0471056693_TOC.pdf) of [Pattern Classification](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?ie=UTF8&qid=1540993285&sr=8-1&keywords=Classification+duda), presented by Luciana Majercsik, Ph.D. student, and  Kerestély Árpád, Ph.D. student.
+*9 April 2019*, Chapter six ["Multilayer neural networks"](https://cds.cern.ch/record/683166/files/0471056693_TOC.pdf) of [Pattern Classification](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?ie=UTF8&qid=1540993285&sr=8-1&keywords=Classification+duda), part 1, presented by Luciana Majercsik, Ph.D. student, and  Kerestély Árpád, Ph.D. student.
 
 *16 April 2019*, Universal approximation for NNs, Lucian M. Sasu, Ph.D.
 
@@ -57,3 +57,7 @@ Ph.D. students, researchers and interested people are expected to actively parti
 *30 April 2019*, university holiday
 
 *7 May 2019*, [Laplacian Eigenmaps for Dimensionality Reduction and Data Representation](https://github.com/lmsasu/MLReadingGroup/blob/master/Presentations/2019/05.May/07/Laplacian.pdf), Alexandru Ionescu, Ph.D.; [slides](https://github.com/lmsasu/MLReadingGroup/blob/master/Presentations/2019/05.May/07/Laplacian_Eigenmaps.pdf)
+
+*14 May 2019*, not held.
+
+*21 May 2019*, Chapter six ["Multilayer neural networks"](https://cds.cern.ch/record/683166/files/0471056693_TOC.pdf) of [Pattern Classification](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?ie=UTF8&qid=1540993285&sr=8-1&keywords=Classification+duda), part 2, presented by Luciana Majercsik, Ph.D. student, and  Kerestély Árpád, Ph.D. student.
