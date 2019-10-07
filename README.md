@@ -62,4 +62,4 @@ Ph.D. students, researchers and interested people are expected to actively parti
 
 *28 May 2019*, Chapter six ["Multilayer neural networks"](https://cds.cern.ch/record/683166/files/0471056693_TOC.pdf) of [Pattern Classification](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?ie=UTF8&qid=1540993285&sr=8-1&keywords=Classification+duda), part 2, presented by Luciana Majercsik, Ph.D. student, and  Kerestély Árpád, Ph.D. student. [slides](/Presentations/2019/05.May/28/NN_part2.pdf)
 
-*8 October 2019*, room **PII2** (note the room change) [Workshop] Introduction to a pythonic Data Science environment. [*Prerequisites*](/Presentations/2019/10.October/08/IntroToML.html)
+*8 October 2019*, room **PII2** (note the room change) [Workshop] Introduction to a pythonic Data Science environment. [*Prerequisites*](https://nbviewer.jupyter.org/github/lmsasu/MLReadingGroup/blob/master/Presentations/2019/10.October/08/IntroToML.ipynb)
