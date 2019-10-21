@@ -22,6 +22,8 @@ Every **Tuesday**, from **18-19.30**, in room **PII2**.
 
 ## Up next & so far
 
+*22 October 2019*, [Workshop] Advanced gradient descent optimization algorithms, by all. *Prerequisites*: Python installed, with Jupyter/VS Code/Pycharm environments. [*Presentation*](/Presentations/2019/10.October/15/sgd.ipynb)
+
 *15 October 2019*, [Workshop] Stochastic gradient decent hands-on presented by Lucian M. Sasu, Ph.D. *Prerequisites*: Python installed, with Jupyter/VS Code/Pycharm environments. [*Presentation*](/Presentations/2019/10.October/15/sgd.ipynb)
 
 *8 October 2019*, [Workshop] Introduction to a Pythonic machine learning environment presented by Lucian M. Sasu, Ph.D. and Kerestély Árpád, Ph.D. student. [*Prerequisites & Presentation*](/Presentations/2019/10.October/08/IntroToML.ipynb)
