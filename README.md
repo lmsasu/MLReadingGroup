@@ -22,9 +22,9 @@ Every **Tuesday**, from **18-19.30**, in room **PII2**.
 
 ## Up next & so far
 
-*5 November 2019*, [Workshop] Advanced gradient descent optimization algorithms, by Ioana Plajer, Ph.D.. *Prerequisites*: Python installed, with Jupyter/VS Code/Pycharm environments. [Workshop material to be added]
+*5 November 2019*, [Workshop] Advanced gradient descent optimization algorithms (2), by Ioana Plajer, Ph.D.. *Prerequisites*: Python installed, with Jupyter/VS Code/Pycharm environments. [Workshop material to be added]
 
-*29 October 2019*, [Workshop] Advanced gradient descent optimization algorithms, by Lucian Sasu, Ph.D. *Prerequisites*: Python installed, with Jupyter/VS Code/Pycharm environments. [Workshop material](/Presentations/2019/10.October/29/Momentum_workshop.ipynb),  [Solution notebook](/Presentations/2019/10.October/29/Momentum.ipynb)
+*29 October 2019*, [Workshop] Advanced gradient descent optimization algorithms (1), by Lucian Sasu, Ph.D. *Prerequisites*: Python installed, with Jupyter/VS Code/Pycharm environments. [Workshop material](/Presentations/2019/10.October/29/Momentum_workshop.ipynb),  [Solution notebook](/Presentations/2019/10.October/29/Momentum.ipynb)
 
 *15 October 2019*, [Workshop] Stochastic gradient decent hands-on presented by Lucian M. Sasu, Ph.D. *Prerequisites*: Python installed, with Jupyter/VS Code/Pycharm environments. [*Presentation*](/Presentations/2019/10.October/15/sgd.ipynb)
 
