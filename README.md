@@ -22,6 +22,8 @@ Every **Tuesday**, from **18-19.30**, in room **PII2**.
 
 ## Up next & so far
 
+*19 November 2019*, [Workshop] Advanced gradient descent optimization algorithms (4): Adam, by Mihaela Olteanu, Ph.D. student. *Prerequisites*: Python installed, with Jupyter/VS Code/Pycharm environments.
+
 *12 November 2019*, [Workshop] Advanced gradient descent optimization algorithms (3): AdaDelta, by Bogdan Ivan, student. *Prerequisites*: Python installed, with Jupyter/VS Code/Pycharm environments. [AdaDelta worksheet](/Presentations/2019/11.November/12/AdaDelta_Worksheet.ipynb) [Solution](/Presentations/2019/11.November/12/AdaDelta_Worksheet_Solved.ipynb)
 
 *5 November 2019*, [Workshop] Advanced gradient descent optimization algorithms (2): Adagrad, by Ioana Plajer, Ph.D. *Prerequisites*: Python installed, with Jupyter/VS Code/Pycharm environments. [AdaGrad worksheet](/Presentations/2019/11.November/05/AdaGrad-Worksheet.ipynb) [AdaGrad solution](/Presentations/2019/11.November/05/AdaGrad_solutions.ipynb)
