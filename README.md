@@ -22,8 +22,9 @@ Every **Tuesday**, from **18-19.30**, in room **PII2**.
 
 ## Up next & so far
 
+*10 December 2019*, [Workshop] Backprop refresh, by Ioana Plajer, Ph.D. *Prerequisites*: Python installed, with Jupyter/VS Code/Pycharm environments. [Worksheet](/Presentations/2019/12.December/03/Classification-Worksheet-December.ipynb), (Part 2/2)
 
-*3 December 2019*, [Workshop] Backprop refresh, by Ioana Plajer, Ph.D. *Prerequisites*: Python installed, with Jupyter/VS Code/Pycharm environments. [Worksheet](/Presentations/2019/12.December/03/Classification-Worksheet-December.ipynb)
+*3 December 2019*, [Workshop] Backprop refresh, by Ioana Plajer, Ph.D. *Prerequisites*: Python installed, with Jupyter/VS Code/Pycharm environments. [Worksheet](/Presentations/2019/12.December/03/Classification-Worksheet-December.ipynb), (Part 1/2)
 
 *19 November 2019*, [Workshop] Advanced gradient descent optimization algorithms (4): Adam, by Mihaela Olteanu, Ph.D. student. *Prerequisites*: Python installed, with Jupyter/VS Code/Pycharm environments. [Adam worksheet](/Presentations/2019/11.November/19/Adam_Worksheet.ipynb)
 
