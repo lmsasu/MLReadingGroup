@@ -22,7 +22,7 @@ Every **Tuesday**, from **18-19.30**, in room **PII2**.
 
 ## Up next & so far
 
-*10 December 2019*, [Workshop] Backprop refresh, by Ioana Plajer, Ph.D. *Prerequisites*: Python installed, with Jupyter/VS Code/Pycharm environments. [Worksheet](/Presentations/2019/12.December/03/Classification-Worksheet-December.ipynb), (Part 2/2)
+*10 December 2019*, [Workshop] Backprop refresh, by Ioana Plajer, Ph.D. *Prerequisites*: Python installed, with Jupyter/VS Code/Pycharm environments. [Worksheet](/Presentations/2019/12.December/10/Classification-Worksheet-December.ipynb), [Solution](/Presentations/2019/12.December/10/Classification-Worksheet-Solution.ipynb)(Part 2/2)
 
 *3 December 2019*, [Workshop] Backprop refresh, by Ioana Plajer, Ph.D. *Prerequisites*: Python installed, with Jupyter/VS Code/Pycharm environments. [Worksheet](/Presentations/2019/12.December/03/Classification-Worksheet-December.ipynb), (Part 1/2)
 
