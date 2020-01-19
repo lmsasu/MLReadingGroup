@@ -22,7 +22,7 @@ Every **Tuesday**, from **18-19.30**, in room **PII2**.
 
 ## Up next & so far
 
-*14 January 2020*, [Workshop] Dimensionality reduction. [Worksheet](/Presentations/2020/01.January/14/DimensionalityReductionWorksheet.ipynb), by. Alexandru Ionescu, Ph.D. *Prerequisites*: Python installed, with Jupyter/VS Code/Pycharm environments. 
+*14 January 2020*, [Workshop] Dimensionality reduction, by. Alexandru Ionescu, Ph.D. [Worksheet](/Presentations/2020/01.January/14/DimensionalityReductionWorksheet.ipynb), [Solution](/Presentations/2020/01.January/14/DimensionalityReductionSolutions.ipynb)  *Prerequisites*: Python installed, with Jupyter/VS Code/Pycharm environments. 
 
 *10 December 2019*, [Workshop] Backprop refresh, by Ioana Plajer, Ph.D. *Prerequisites*: Python installed, with Jupyter/VS Code/Pycharm environments. [Worksheet](/Presentations/2019/12.December/10/Classification-Worksheet-December.ipynb), [Solution](/Presentations/2019/12.December/10/Classification-Worksheet-Solution.ipynb)(Part 2/2)
 
