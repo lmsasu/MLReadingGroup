@@ -22,7 +22,7 @@ Every **Tuesday**, from **18-19.30**, in room **PII2**.
 
 ## Up next & so far
 
-*10 March 2020*, [Workshop] Introductio to PyTorch, by. Lucian Sasu, Ph.D. {Presentation to be added}, *Prerequisites*: Python installed, [PyTorch](https://pytorch.org) with Jupyter notebook/VS Code/Pycharm environments. 
+Postponed due to University's regulation related to Coronavirus ~~*10 March 2020*, [Workshop] Introductio to PyTorch, by. Lucian Sasu, Ph.D. {Presentation to be added}, *Prerequisites*: Python installed, [PyTorch](https://pytorch.org) with Jupyter notebook/VS Code/Pycharm environments. ~~
 
 *14 January 2020*, [Workshop] Dimensionality reduction, by. Alexandru Ionescu, Ph.D. [Worksheet](/Presentations/2020/01.January/14/DimensionalityReductionWorksheet.ipynb), [Solution](/Presentations/2020/01.January/14/DimensionalityReductionSolutions.ipynb)  *Prerequisites*: Python installed, with Jupyter/VS Code/Pycharm environments. 
 
