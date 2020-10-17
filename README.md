@@ -22,7 +22,7 @@ Every **Tuesday**, from **18-19.30**, in room **PII2**.
 
 ## Up next & so far
 
-*22 October 2020*, "Temporal coding and backpropagation in spiking neural networks", Iulia Comsa, Ph.D.
+*22 October 2020, 18.00*, "Temporal coding and backpropagation in spiking neural networks", Iulia Comsa, Ph.D.
 
 Postponed due to University's regulation related to Coronavirus <del>*10 March 2020*, [Workshop] Introductio to PyTorch, by. Lucian Sasu, Ph.D. {Presentation to be added}, *Prerequisites*: Python installed, [PyTorch](https://pytorch.org) with Jupyter notebook/VS Code/Pycharm environments.</del>
 
