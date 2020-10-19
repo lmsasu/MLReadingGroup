@@ -18,11 +18,14 @@ Books:
 
 ## When
 
-Every **Tuesday**, from **18-19.30**, in room **PII2**.
+Every <del>**Tuesday**</del>Thursday, from **18-19.30**, <del>room **PII2**</del>online.
 
 ## Up next & so far
 
-*22 October 2020, 18.00*, "Temporal coding and backpropagation in spiking neural networks", Iulia Comsa, Ph.D.; meeting link [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk)
+
+*5 November 2020, 18.00*, "Artificial Intelligence for Medical Image Understanding", Florin Ghesu, Ph.D., Staff Research Scientist at Siemens Healthineers; meeting link [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk)
+
+*22 October 2020, 18.00*, "Temporal coding and backpropagation in spiking neural networks", Iulia Comsa, Ph.D., Google; meeting link [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk)
 
 Postponed due to University's regulation related to Coronavirus <del>*10 March 2020*, [Workshop] Introductio to PyTorch, by. Lucian Sasu, Ph.D. {Presentation to be added}, *Prerequisites*: Python installed, [PyTorch](https://pytorch.org) with Jupyter notebook/VS Code/Pycharm environments.</del>
 
