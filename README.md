@@ -22,6 +22,7 @@ Every <del>**Tuesday**</del>Thursday, from **18-19.30**, <del>room **PII2**</del
 
 ## Up next & so far
 
+*19 November 2020, 18.00*, Paper presentation and discussion: "Attention is all you need", https://arxiv.org/abs/1706.03762; Honorius Galmeanu, Ph.D., Lecturer, Faculty of Mathematics and computer Science, Transilvania University of Brasov, and ML Engineer Xperi Corp; meeting link [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk)
 
 *5 November 2020, 18.00*, "Artificial Intelligence for Medical Image Understanding", Florin Ghesu, Ph.D., Staff Research Scientist at Siemens Healthineers; meeting link [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk)
 
