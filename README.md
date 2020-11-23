@@ -22,7 +22,9 @@ Every <del>**Tuesday**</del>Thursday, from **18-19.30**, <del>room **PII2**</del
 
 ## Up next & so far
 
-*19 November 2020, 18.00*, Paper presentation and discussion: "Attention is all you need", https://arxiv.org/abs/1706.03762; Honorius Galmeanu, Ph.D., Lecturer, Faculty of Mathematics and computer Science, Transilvania University of Brasov, and ML Engineer Xperi Corp; meeting link [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk); [*Presentation*](Presentations/2020/11.November/19/attn_iayn.pdf)
+*3 December 2020, 18.00*, Paper presentation and discussion: "AI for Cheat Detection in Online Games"; Delia Duca-Iliescu, Ph.D. Student, teacher assistant, Faculty of Mathematics and Computer Science, Transilvania University of Brasov; meeting link [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk);
+
+*19 November 2020, 18.00*, Paper presentation and discussion: "Attention is all you need", https://arxiv.org/abs/1706.03762; Honorius Galmeanu, Ph.D., Lecturer, Faculty of Mathematics and Computer Science, Transilvania University of Brasov, and ML Engineer Xperi Corp; meeting link [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk); [*Presentation*](Presentations/2020/11.November/19/attn_iayn.pdf)
 
 *5 November 2020, 18.00*, "Artificial Intelligence for Medical Image Understanding", Florin Ghesu, Ph.D., Staff Research Scientist at Siemens Healthineers; meeting link [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk)
 
