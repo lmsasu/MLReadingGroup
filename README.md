@@ -1,6 +1,6 @@
 # ML Reading Group
 
-This repository is devoted to Machine Learning reading group held in Faculty of Mathematics and Computer Science, [Transilvania University of Brasov](http://www.unitv.ro/).
+This repository is devoted to Machine Learning reading group held in Faculty of Mathematics and Computer Science, [Transilvania University of Brasov](http://www.unitbv.ro/).
 
 Weekely meetings are scheduled in **Faculty of Mathematics and Computer Science, Iuliu Maniu 50**, officially starting with October 31st 2018.
 
