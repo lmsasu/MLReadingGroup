@@ -22,7 +22,7 @@ Every <del>**Tuesday**</del>Thursday, from **18-19.30**, <del>room **PII2**</del
 
 ## Up next & so far
 
-*17 December 2020, 18.00*, [Workshop] AlphaX: A tasting of Reinforcement Learning through the Tic Tac Toe game, Kerestély Árpád, Ph.D. Student, Faculty of Mathematics and Computer Science, Transilvania University of Brasov. *Prerequisites*: Visual Studio 2019 with C++ development installed. [Workproject](Presentations/2020/12.December/17/TicTacToe). Meeting link: [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk);
+*17 December 2020, 18.00*, [Workshop] AlphaX: A tasting of Reinforcement Learning through the Tic Tac Toe game, Kerestély Árpád, Ph.D. Student, Faculty of Mathematics and Computer Science, Transilvania University of Brasov. *Prerequisites*: Visual Studio 2019 with C++ development installed. [Workproject](Presentations/2020/12.December/17/TicTacToe) & [Solution](Presentations/2020/12.December/17/TicTacToe_Solution). Meeting link: [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk);
 
 
 *3 December 2020, 18.00*, Paper presentation and discussion: ["AI for Cheat Detection in Online Games"](https://games.jmir.org/2020/4/e24049/PDF); Delia Duca-Iliescu, Ph.D. Student, teacher assistant, Faculty of Mathematics and Computer Science, Transilvania University of Brasov; meeting link [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk);
