@@ -22,7 +22,7 @@ Every <del>**Tuesday**</del>Thursday, from **18-19.30**, <del>room **PII2**</del
 
 ## Up next & so far
 
-*14 January 2021, 18.00*, Paper presentation and discussion: ["An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling"](https://arxiv.org/abs/1803.01271); Lucian M. Sasu, Ph.D., Faculty of Mathematics and Computer Science, Transilvania University of Brasov; meeting link [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk).
+*14 January 2021, 18.00*, Paper presentation and discussion: ["An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling"](https://arxiv.org/abs/1803.01271); Lucian M. Sasu, Ph.D., Faculty of Mathematics and Computer Science, Transilvania University of Brasov; meeting link [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk); [*Presentation*](Presentations/2021/January/14/TemporalConvolutionNetwork.pdf)
 
 *17 December 2020, 18.00*, [Workshop] AlphaX: A tasting of Reinforcement Learning through the Tic Tac Toe game, Kerestély Árpád, Ph.D. Student, Faculty of Mathematics and Computer Science, Transilvania University of Brasov. *Prerequisites*: Visual Studio 2019 with C++ development installed. [Workproject](Presentations/2020/12.December/17/TicTacToe) & [Solution](Presentations/2020/12.December/17/TicTacToe_Solution). Meeting link: [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk);
 
