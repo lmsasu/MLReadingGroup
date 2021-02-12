@@ -18,7 +18,7 @@ Books:
 
 ## When
 
-Every <del>**Tuesday**</del>Thursday, from **18-19.30**, <del>room **PII2**</del>online.
+Every <del>**Tuesday**</del>Thursday, **18-19.30** Bucharest time, <del>room **PII2**</del>online.
 
 ## Up next & so far
 
