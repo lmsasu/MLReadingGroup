@@ -22,7 +22,7 @@ Every <del>**Tuesday**</del>Thursday, from **18-19.30**, <del>room **PII2**</del
 
 ## Up next & so far
 
-*11 February 2021, 18.00*, [Workshop] Data visualization by dimensionality reduction, Alexandru Ionescu, Ph.D., Faculty of Mathematics and Computer Science, Transilvania University of Brasov. *Prerequisites*: jupyter notebook. Meeting link: [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk);
+*11 February 2021, 18.00*, [Workshop] Data visualization by dimensionality reduction, Alexandru Ionescu, Ph.D., Faculty of Mathematics and Computer Science, Transilvania University of Brasov. *Prerequisites*: Jupyter notebook; [Starting notebook](Presentations/2021/February/11/DimRedWorkbook.ipynb) & [Solution](Presentations/2021/February/11/DimRedWorkbook_solutions.ipynb); meeting link: [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk);
 
 *14 January 2021, 18.00*, Paper presentation and discussion: ["An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling"](https://arxiv.org/abs/1803.01271); Lucian M. Sasu, Ph.D., Faculty of Mathematics and Computer Science, Transilvania University of Brasov; meeting link [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk); [*Presentation*](Presentations/2021/January/14/TemporalConvolutionNetwork.pdf)
 
