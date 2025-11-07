@@ -12,15 +12,10 @@ Ph.D. students, researchers and interested people are expected to actively parti
 2) Discussing selected books chapters
 3) Workshops
 
-Books:
-
-- [Duda *et al.* book](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/), with [errata](https://www.cse.unr.edu/~bebis/CS479/Handouts/Errata.pdf).
-
-## When
-
-Every <del>**Tuesday**</del>Thursday, **18-19.30** Bucharest time, <del>room **PII2**</del>online.
-
 ## Up next & so far
+
+*6 November 2025, 15.00*, [Paper presenstation and discussion] ["Differentiable K-Means (DKM) - Soft Clustering for Neural Network Compression"](https://arxiv.org/abs/2108.12659); Honorius Galmeanu, Ph.D., associate professor, Faculty of Mathematics and Computer Science, Transilvania University of Brasov; meeting link [MS Teams Link](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_MmM0Y2JkNzAtMjJkYy00NWFmLTg1ZmItZDU3YzJkNGY4MmU2%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25221211f716-5b0b-4bfe-b7c9-8e0045b37e3e%2522%252c%2522Oid%2522%253a%2522c822d185-8393-4daa-a5f2-0f659ab07eb3%2522%257d%26launchAgent%3DGSuiteAddOn%26correlationId%3D3f5d2ab1-73f2-4d3b-96f0-3e7c9e73eb0c%26anon%3Dtrue&type=meetup-join&deeplinkId=65ec00f4-91c5-4986-9247-993fcfb8344b&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true); 
+*[Presentation](/Presentations/2025/11.November/2025-11-06/diff_kmeans.pdf)*
 
 *11 February 2021, 18.00*, [Workshop] Data visualization by dimensionality reduction, Alexandru Ionescu, Ph.D., Faculty of Mathematics and Computer Science, Transilvania University of Brasov. *Prerequisites*: Jupyter notebook; [Starting notebook](Presentations/2021/February/11/DimRedWorkbook.ipynb) & [Solution](Presentations/2021/February/11/DimRedWorkbook_solutions.ipynb); meeting link: [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk);
 
@@ -29,7 +24,7 @@ Every <del>**Tuesday**</del>Thursday, **18-19.30** Bucharest time, <del>room **P
 *17 December 2020, 18.00*, [Workshop] AlphaX: A tasting of Reinforcement Learning through the Tic Tac Toe game, Kerestély Árpád, Ph.D. Student, Faculty of Mathematics and Computer Science, Transilvania University of Brasov. *Prerequisites*: Visual Studio 2019 with C++ development installed. [Workproject](Presentations/2020/12.December/17/TicTacToe) & [Solution](Presentations/2020/12.December/17/TicTacToe_Solution). Meeting link: [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk);
 
 
-*3 December 2020, 18.00*, Paper presentation and discussion: ["AI for Cheat Detection in Online Games"](https://games.jmir.org/2020/4/e24049/PDF); Delia Duca-Iliescu, Ph.D. Student, teacher assistant, Faculty of Mathematics and Computer Science, Transilvania University of Brasov; meeting link [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk);
+*3 December 2020, 18.00*, [Paper presentation and discussion:] ["AI for Cheat Detection in Online Games"](https://games.jmir.org/2020/4/e24049/PDF); Delia Duca-Iliescu, Ph.D. Student, teacher assistant, Faculty of Mathematics and Computer Science, Transilvania University of Brasov; meeting link [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk);
 
 *19 November 2020, 18.00*, Paper presentation and discussion: "Attention is all you need", https://arxiv.org/abs/1706.03762; Honorius Galmeanu, Ph.D., Lecturer, Faculty of Mathematics and Computer Science, Transilvania University of Brasov, and ML Engineer Xperi Corp; meeting link [https://meet.google.com/pnu-wakf-vyk](https://meet.google.com/pnu-wakf-vyk); [*Presentation*](Presentations/2020/11.November/19/attn_iayn.pdf)
 
